@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohdayan311006-source/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdayan311006-source/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0525-contiguous-array](https://github.com/mohdayan311006-source/leetcode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdayan311006-source/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohdayan311006-source/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohdayan311006-source/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/mohdayan311006-source/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/mohdayan311006-source/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/mohdayan311006-source/leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/mohdayan311006-source/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdayan311006-source/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mohdayan311006-source/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/mohdayan311006-source/leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/mohdayan311006-source/leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdayan311006-source/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mohdayan311006-source/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0525-contiguous-array](https://github.com/mohdayan311006-source/leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/mohdayan311006-source/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/mohdayan311006-source/leetcode/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdayan311006-source/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/mohdayan311006-source/leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mohdayan311006-source/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -86,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdayan311006-source/leetcode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/mohdayan311006-source/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdayan311006-source/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mohdayan311006-source/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohdayan311006-source/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohdayan311006-source/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohdayan311006-source/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/mohdayan311006-source/leetcode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdayan311006-source/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohdayan311006-source/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdayan311006-source/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/mohdayan311006-source/leetcode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohdayan311006-source/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohdayan311006-source/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/mohdayan311006-source/leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohdayan311006-source/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/mohdayan311006-source/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mohdayan311006-source/leetcode/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohdayan311006-source/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohdayan311006-source/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

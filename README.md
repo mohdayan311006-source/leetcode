@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mohdayan311006-source/leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/mohdayan311006-source/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/mohdayan311006-source/leetcode/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mohdayan311006-source/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mohdayan311006-source/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/mohdayan311006-source/leetcode/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mohdayan311006-source/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mohdayan311006-source/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/mohdayan311006-source/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mohdayan311006-source/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mohdayan311006-source/leetcode/tree/master/0409-longest-palindrome) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mohdayan311006-source/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
